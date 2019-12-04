@@ -1,1 +1,1 @@
-test ansible_host=10.237.71.187
+test ansible_host=10.237.71.187 ansible_user=abdo ansible_ssh_pass=P@ssw0rd123
